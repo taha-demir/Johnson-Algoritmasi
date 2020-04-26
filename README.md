@@ -7,12 +7,5 @@ Johnson kuralının adımları şöyledir:
 3-	Bu işlem süresi Makine 1’e aitse bu işi en başa sıralayınız, Makine 2’ye aitse en sona sıralayınız.
 4-	Sıradaki en küçük işlem süresine göre tüm işler bitene kadar adım 2 ve adım 3’ü tekrarlayınız. 
 
-Problem: ABC şirketi, küçük bir işletmedir. Ürettiği ürünler önde kesme, sonra delme operasyonlarından geçmektedir. ABC şirketinin 5 siparişi vardır ve tahmin edilen işlem süreleri gün olarak aşağıdaki tabloda verilmiştir: 
-
-İş	Kesme	Delme
-1	   4	   5
-2	   4	   1
-3	   10	   4
-4	   6	   10
-5	   2	   3
+Problem: ABC şirketi, küçük bir işletmedir. Ürettiği ürünler önde kesme, sonra delme operasyonlarından geçmektedir. ABC şirketinin 5 siparişi vardır ve tahmin edilen işlem süreleri gün olarak kod içerisinde belirtilmiştir. 
 (Kaynak: Prof. Dr. Emin GÜNDOĞAR – Endüstriyel Üretim Planlama ve Kontrol, sf. 186)
